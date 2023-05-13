@@ -44,9 +44,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 ```text
 Vue.js       8 hrs 39 mins   ███████████████▓░░░░░░░░░   62.06 %
-JavaScript   2 hrs 3 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.80 %
+JavaScript   2 hrs 4 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.81 %
 Markdown     1 hr 35 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.46 %
-Docker       34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
+Docker       34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
 Less         31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
 ```
 
