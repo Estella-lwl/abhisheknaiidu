@@ -43,8 +43,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-HTML   1 hr            ████████████████░░░░░░░░░   64.05 %
-CSS    33 mins         █████████░░░░░░░░░░░░░░░░   35.95 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
