@@ -44,7 +44,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 ```txt
 Vue.js       4 hrs 53 mins   ██████████░░░░░░░░░░░░░░░   39.79 %
-HTML         4 hrs 26 mins   █████████░░░░░░░░░░░░░░░░   36.13 %
+HTML         4 hrs 26 mins   █████████░░░░░░░░░░░░░░░░   36.12 %
 CSS          1 hr 59 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.20 %
 JavaScript   38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
 JSON         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
