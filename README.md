@@ -43,11 +43,11 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js       1 hr 32 mins          █████████████░░░░░░░░░░░░   51.56 %
-JavaScript   51 mins               ███████▒░░░░░░░░░░░░░░░░░   28.94 %
-Markdown     14 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
-TypeScript   11 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
-JSON         6 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+Vue.js       1 hr 29 mins          ████████████▓░░░░░░░░░░░░   50.75 %
+JavaScript   51 mins               ███████▒░░░░░░░░░░░░░░░░░   29.43 %
+Markdown     14 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 %
+TypeScript   11 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
+JSON         6 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
 ```
 
 <!--END_SECTION:waka-->
